@@ -2,9 +2,9 @@
 int main (){
     char escolha[12];
 
-    scanf ("%s", &escolha[1]);
+    scanf ("%s", &escolha);
 
-    switch (escolha[1])
+    switch (escolha[0])
     {
     case 'c':
         printf("Casado");
