@@ -1,3 +1,4 @@
+// Programa para identificar estado civil
 #include <stdio.h>
 int main (){
     char escolha[12];
